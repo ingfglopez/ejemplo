@@ -19,6 +19,6 @@ PLANNING : 14/06/2023
 
 -------- HISTORIAS DE USUARIO --------
 
-HU-1:
+HU-1: Lucas Salvatierra 
 
 
