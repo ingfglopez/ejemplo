@@ -1,0 +1,18 @@
+.card{
+    border: 1px;
+    background-color: slategray;
+    border-radius: 5px;
+}
+
+.tituloTexto{
+    padding: 5px;
+    padding-left: 10px;
+    color: white;
+}
+
+.cuerpo{
+    padding: 5px;
+    color: white;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
